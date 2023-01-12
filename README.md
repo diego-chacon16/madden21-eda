@@ -1,5 +1,7 @@
 ## Madden 21 Exploratory Data Analysis
 
+<img src="https://media.giphy.com/media/xTgeJd2Z2b5OA0H7Ik/giphy.gif" width="400" height="200"/>
+
 #### Questions to answer:
 
 1. For the Top 100 players
